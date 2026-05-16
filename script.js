@@ -43,8 +43,8 @@ function resizeYesButton() {
 function generateMessage(noCount) {
   const messages = [
     "Não",
-    "Certeza?",
-    "Por favor amoriznhooo",
+    "Tem Certeza?",
+    "Por favor minha princesaaa",
     "Não faz isso comigo :(",
     "Você tá quebrando meu coração",
     "Eu vou chorar...",
